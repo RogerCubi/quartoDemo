@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.0](https://github.com/RogerCubi/quartoDemo/compare/v1.2.0...v1.3.0) (2024-04-11)
+
+
+### Features
+
+* Add citation ([62f044b](https://github.com/RogerCubi/quartoDemo/commit/62f044badad245f55a3e1feb961d4f42e5cd34f9))
+
 ## [1.2.0](https://github.com/RogerCubi/quartoDemo/compare/v1.1.0...v1.2.0) (2024-04-11)
 
 
