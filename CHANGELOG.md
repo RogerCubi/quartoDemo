@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file. See
 [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.6.0](https://github.com/RogerCubi/quartoDemo/compare/v1.5.0...v1.6.0) (2024-04-11)
+
+
+### Features
+
+* Update README.md ([871006e](https://github.com/RogerCubi/quartoDemo/commit/871006e9c883f9fb659670bd9ce36931c4b2e110))
+
 ## [1.5.0](https://github.com/RogerCubi/quartoDemo/compare/v1.4.0...v1.5.0) (2024-04-11)
 
 
